@@ -5,7 +5,7 @@
 #include <math.h>
 //#include<iostream>
 //using namespace std;
-
+//Edited
 
 int score = 0;
 int brick_color = 1,ball_color = 3,level = 0,paddle_color = 2,text_color = 5,size = 1;;
